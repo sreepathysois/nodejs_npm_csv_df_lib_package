@@ -1,0 +1,27 @@
+{
+  "name": "@sreepathysois/csv-to-dataframe",
+  "version": "1.0.0",
+  "description": "A Node.js library to read data from CSV and convert to DataFrame-like structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreepathysois/nodejs_npm_csv_df_lib_package.git"
+  },
+  "keywords": ["csv", "dataframe", "nodejs"],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreepathysois/nodejs_npm_csv_df_lib_package/issues"
+  },
+  "homepage": "https://github.com/sreepathysois/nodejs_npm_csv_df_lib_package#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
+
