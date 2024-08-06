@@ -39,6 +39,7 @@ cd nodejs_npm_csv_df_lib_package/testing_package_code
 
 Step 2: Create a Nodejs Project
 sudo npm init -y 
+Create .npmcr file with registry details and github token
 Update package.json with dependency as mentioned in testing_package_code/package.json  folder 
 Create index.js project as mentioned in testing_package_code/index.js
 Prepare Datasets samples.csv 
