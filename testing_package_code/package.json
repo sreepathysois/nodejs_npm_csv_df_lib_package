@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_test",
+  "version": "1.0.0",
+  "description": "A Node.js project using csv-to-dataframe package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@sreepathysois/csv-to-dataframe": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
