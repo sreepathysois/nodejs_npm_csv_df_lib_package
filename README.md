@@ -35,12 +35,12 @@ sudo npm publish
 Step 1: Prepare Environment
 sudo apt-get update && sudo apt-get install nodejs npm -y
 sudo git clone https://github.com/sreepathysois/nodejs_npm_csv_df_lib_package.git
-cd nodejs_npm_csv_df_lib_package/test_package_code
+cd nodejs_npm_csv_df_lib_package/testing_package_code
 
 Step 2: Create a Nodejs Project
 sudo npm init -y 
-Update package.json with dependency as mentioned in test_package_code/package.json  folder 
-Create index.js project as mentioned in test_package_code/index.js
+Update package.json with dependency as mentioned in testing_package_code/package.json  folder 
+Create index.js project as mentioned in testing_package_code/index.js
 Prepare Datasets samples.csv 
 
 Step 3: Test the package
