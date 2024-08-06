@@ -1,5 +1,5 @@
 {
-  "name": "sreepathysois/csv-to-dataframe",
+  "name": "@sreepathysois/csv-to-dataframe",
   "version": "1.0.1",
   "description": "A Node.js library to read data from CSV and convert to DataFrame-like structure",
   "main": "index.js",
